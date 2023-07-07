@@ -69,20 +69,37 @@ width: 270px;
     margin: 50px 200px;
 }
 /* my blogs---------------------------------------------------------- */
+.what-i-do{
+    color: grey;
+    text-align: center;
+}
 .blog-title{
     margin-top: 100px;
      text-align: center;
+     color: darkblue;
+     
 }
-.my-blogs{
-    display: flex;
-    gap: 50px;
-    margin: 70px 50px;
- 
+.skills{
+  display: flex;
+  margin: 150px 50px;
+  gap: 40px;
    
 }
-.my-blog{
-   border: 2px solid blueviolet;
-   padding: 20px;
-   background-color: rgb(234, 227, 217);
-   box-shadow:15px 15px 15px grey;
+.skill{
+  padding: 33px 30px;
+  color: rgb(122, 119, 119);
+  box-shadow: 10px 10px 10px gray;
+  background-color: lightgoldenrodyellow;
+  border-radius: 5px;
+}
+.skill h3{
+    color: black;
+}
+/* used images---------------------------------------------------------------------------------------------------- */
+.images{
+ background-image: url('../images/gradient1.png');
+ background-repeat: no-repeat;
+ background-blend-mode:multiply;
+ text-align: center;
+ /* background-color: grey; */
 }
