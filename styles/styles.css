@@ -1,0 +1,11 @@
+.banner{
+  display: flex;
+}
+.banner-title{
+margin-top: 100px;
+ margin-left: -500px;
+ /* margin-bottom: 500px; */
+}
+.banner-title p{
+  
+}
