@@ -4,8 +4,22 @@
 .banner-title{
 margin-top: 100px;
  margin-left: -500px;
- /* margin-bottom: 500px; */
+ width: 270px;
+color: white;
+font-size: 40px;
+font-weight: 600;
 }
-.banner-title p{
-  
+.some-text {
+color: white;
+position: absolute;
+top: 250px;
+right: 215px;
+width: 300px;
+}
+.primary-btn{
+    height: 30px;
+    border-radius: 5px;
+    color: blue;
+    border: none;
+    top: 330;
 }
