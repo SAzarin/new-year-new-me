@@ -1,9 +1,17 @@
+.title{
+    font-weight: 800;
+    font-size: 40px;
+ 
+}
+
+
 .banner{
+
   display: flex;
 }
 .banner-title{
 margin-top: 100px;
- margin-left: -500px;
+ margin-left: -400px;
  width: 270px;
 color: white;
 font-size: 40px;
@@ -13,13 +21,31 @@ font-weight: 600;
 color: white;
 position: absolute;
 top: 250px;
-right: 215px;
-width: 300px;
+right: 130px;
+width: 270px;
 }
 .primary-btn{
     height: 30px;
-    border-radius: 5px;
+    border-radius: 2px;
     color: blue;
     border: none;
-    top: 330;
+    margin-left: -210px;
+    margin-top: 100px;
 }
+.container{
+    color: rgb(91, 103, 116);
+    font-size: 16px;
+    margin-top: 24px;
+}
+.some-list{
+    color: rgb(88, 104, 121);
+}
+.some-paragraph{
+    display: flex;
+    margin: 100px 50px;
+    gap: 134px;
+}
+.charset{
+    margin-top: 150px;
+}
+.
