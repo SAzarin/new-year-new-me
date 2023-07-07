@@ -97,9 +97,38 @@ width: 270px;
 }
 /* used images---------------------------------------------------------------------------------------------------- */
 .images{
- background-image: url('../images/gradient1.png');
+ background-image: url('../images/watch.png');
  background-repeat: no-repeat;
- background-blend-mode:multiply;
+ /* background-blend-mode:multiply; */
  text-align: center;
+ margin-left: 57px;
+margin-right: 50px;
+border-radius: 5px;
  /* background-color: grey; */
+}
+.last-section{
+text-align: left;
+/* margin-left: 100px; */
+justify-content: center;
+margin-right: -500px;
+color: white;
+/* margin-right: 100px; */
+
+/* margin-top: -200px; */
+}
+.primary-button{
+    height: 30px;
+    border-radius: 2px;
+    color: blue;
+    border: none;
+    padding: 10px;
+    font-family: serif;
+}
+.some-styles{
+    display: flex;
+    /* margin-right: -800px; */
+    justify-content: left;
+}
+.image-style{
+    /* margin-right: -100px; */
 }
