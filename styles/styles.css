@@ -68,3 +68,21 @@ width: 270px;
     justify-content: space-between;
     margin: 50px 200px;
 }
+/* my blogs---------------------------------------------------------- */
+.blog-title{
+    margin-top: 100px;
+     text-align: center;
+}
+.my-blogs{
+    display: flex;
+    gap: 50px;
+    margin: 70px 50px;
+ 
+   
+}
+.my-blog{
+   border: 2px solid blueviolet;
+   padding: 20px;
+   background-color: rgb(234, 227, 217);
+   box-shadow:15px 15px 15px grey;
+}
