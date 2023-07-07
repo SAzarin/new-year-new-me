@@ -1,9 +1,9 @@
-.title{
+.titles{
     font-weight: 800;
     font-size: 40px;
  
 }
-
+/* all titles */
 
 .banner{
 
@@ -37,15 +37,34 @@ width: 270px;
     font-size: 16px;
     margin-top: 24px;
 }
-.some-list{
+.some-lists{
     color: rgb(88, 104, 121);
+  
+}
+.some-list{
+    display: flex;
+    align-items: center;
+    gap: 2px;
 }
 .some-paragraph{
     display: flex;
-    margin: 100px 50px;
+    margin: 100px 80px;
     gap: 134px;
 }
 .charset{
     margin-top: 150px;
 }
-.
+.tick-icon{
+    height: 17px;
+    width: 17px;
+}
+/* other section---------------------------------- */
+.other-title{
+    text-align: center;
+}
+.My-Plans{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
