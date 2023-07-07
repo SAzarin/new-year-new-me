@@ -129,6 +129,29 @@ color: white;
     /* margin-right: -800px; */
     justify-content: left;
 }
-.image-style{
-    /* margin-right: -100px; */
+/* foooter section or last section--------------------------------------------------------- */
+.footer-section{
+    display: flex;
+  background-color: #151414;
+  margin-top: 130px;
+  height: 400px;
+  padding: 80px 150px;
+  color: white;
+  gap: 352px;
+
+}
+.Subscribe{
+    padding: 10px;
+    background-color: #005FAC;
+    border: 0;
+    border-radius: 5px;
+    height: 64px;
+    width: 170.106px;
+    margin-top: 15px;
+}
+.footer-section input{
+    height: 54px;
+    width: 220px;
+    border-radius: 5px;
+    padding: 15px;
 }
