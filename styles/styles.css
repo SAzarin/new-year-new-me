@@ -109,9 +109,12 @@ border-radius: 5px;
 .last-section{
 text-align: left;
 justify-content: center;
+position: relative;
+top: -290px;
+padding: 50px;
+font-size: 700s;
 
-
-color: blueviolet;
+color: white;
 
 }
 .primary-button{
